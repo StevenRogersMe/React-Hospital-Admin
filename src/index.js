@@ -15,7 +15,7 @@ import 'assets/fonts/simple-line-icons.css';
 import indexRoutes from 'routes/index.jsx';
 
 const hist = createBrowserHistory();
-
+// <!-- test -->
 ReactDOM.render(
     
     <Router history={hist} basename={process.env.REACT_APP_BASEDIR}>
